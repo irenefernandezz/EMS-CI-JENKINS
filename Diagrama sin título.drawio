@@ -303,6 +303,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4wHlZmgcgwCyxtwzYmkr-104" value="suscribe to: notificación fallo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4wHlZmgcgwCyxtwzYmkr-101">
+          <mxGeometry x="0.5706" y="-4" relative="1" as="geometry">
+            <mxPoint x="43" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4wHlZmgcgwCyxtwzYmkr-96" value="&lt;div&gt;Web App&lt;/div&gt;&lt;div&gt;Mantenimiento&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="556.65" y="770" width="30" height="60" as="geometry" />
         </mxCell>
@@ -328,6 +333,11 @@
         </mxCell>
         <mxCell id="4wHlZmgcgwCyxtwzYmkr-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.986;entryY=0.912;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4wHlZmgcgwCyxtwzYmkr-97" target="4wHlZmgcgwCyxtwzYmkr-89">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wHlZmgcgwCyxtwzYmkr-105" value="suscribe to: notificación incidencia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4wHlZmgcgwCyxtwzYmkr-99">
+          <mxGeometry x="0.1079" y="1" relative="1" as="geometry">
+            <mxPoint x="-65" y="19" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
